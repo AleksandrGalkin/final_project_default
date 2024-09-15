@@ -1,5 +1,0 @@
-catboost
-pandas
-scikit-learn
-collections
-PIL
