@@ -1,4 +1,0 @@
-catboost
-pandas
-scikit-learn
-Pillow==9.5.0
